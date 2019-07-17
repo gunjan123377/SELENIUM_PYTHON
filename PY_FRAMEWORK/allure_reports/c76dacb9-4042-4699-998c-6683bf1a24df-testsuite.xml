@@ -1,0 +1,32 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1556912064917" stop="1556912064951">
+  <name>test_mathlib</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1556912064917" status="passed" stop="1556912064929">
+      <name>test_johns_id</name>
+      <attachments>
+        <attachment source="2520c89f-ab33-4d04-8e6b-1ccb7044d6f4-attachment.txt" title="Captured stdout setup" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7192-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1556912064943" status="passed" stop="1556912064951">
+      <name>test_toms_id</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="7192-MainThread"/>
+        <label name="host" value="dell-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

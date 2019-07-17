@@ -1,0 +1,17 @@
+15/07/19 05/59/28 PM: INFO: counting rows
+15/07/19 05/59/28 PM: INFO: counting columns
+15/07/19 05/59/28 PM: INFO: reading data
+15/07/19 05/59/28 PM: INFO: reading data
+15/07/19 05/59/29 PM: INFO: logging..................
+15/07/19 05/59/32 PM: INFO: logging failed
+15/07/19 05/59/32 PM: INFO: writing data
+15/07/19 05/59/37 PM: INFO: reading data
+15/07/19 05/59/37 PM: INFO: reading data
+15/07/19 05/59/38 PM: INFO: logging..................
+15/07/19 06/02/19 PM: INFO: logged successfully
+15/07/19 06/02/19 PM: INFO: writing data
+15/07/19 06/02/30 PM: INFO: reading data
+15/07/19 06/02/30 PM: INFO: reading data
+15/07/19 06/02/31 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x09413D70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it',)': /session/e2b0b5f41e48c770cb709d04b576cd49/element
+15/07/19 06/02/32 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x09522B70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it',)': /session/e2b0b5f41e48c770cb709d04b576cd49/element
+15/07/19 06/02/33 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x09522590>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it',)': /session/e2b0b5f41e48c770cb709d04b576cd49/element
